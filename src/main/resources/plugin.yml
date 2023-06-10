@@ -1,0 +1,4 @@
+name: sog-mc-auth
+version: 1.0-SNAPSHOT
+author: CoderDojo Ninja
+main: eu.gamerssociety.mc.plugins.auth.Main
